@@ -60,17 +60,19 @@ If you believe that someone is violating the code of conduct during a TealinuxOS
 
 In case of a conflict of interest, you can individually contact:
 
-    Sage Sharp
-        TealinuxOS Release Party - Incident Responder
-        report@otter.technology
-        +1 (503) 384 8831
-    Ewa Jodlowska
-        Python Software Foundation - Director of Operations
-        ewa@python.org
-    Ernest W. Durbin III
-        TealinuxOS Release Party - Conference Chair
-        ernest@python.org
-        +1 (216) 202 4393
+    Secretariat
+        Dinus Open Source Community - Secretariat of Doscom
+        sekretariat@doscom.org
+
+    Ahmad Basir
+        Dinus Open Source Community - Organization Chair
+        email : akhmadbasir5@gmail.com
+        telegram : @ahmadbasir
+
+    Ardhya Fellyta Destaria Putri
+        TealinuxOS Release Party - Event Chair
+        email : {{email_felly}}
+        telegram : @Anisadhea
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the conference. We value your attendance.
 Procedure for Handling Incidents
